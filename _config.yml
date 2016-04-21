@@ -1,6 +1,6 @@
 name: skatemonster
 favicon: null
-layout_spectrum: 0.24917
+layout_spectrum: 1
 typography_spectrum: 0.48775
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fef4f2'
-    - '#fc0011'
-    - '#4ec0f2'
-    - '#c3ada0'
-    - '#745144'
+    - '#030303'
+    - '#8b502e'
+    - '#abad7c'
+    - '#80191c'
+    - '#185e87'
   brandStrength: 0.6808781363070011
   lightness: 0.25397360953502357
   saturation: 0.21747930883429945
