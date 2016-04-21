@@ -1,0 +1,28 @@
+name: skatemonster
+favicon: null
+layout_spectrum: 0.3500828875694424
+typography_spectrum: 0.10653006401844323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6808781363070011
+  lightness: 0.25397360953502357
+  saturation: 0.21747930883429945
+  rhythmicContrast: 0.0226316771004349
+purpose: []
